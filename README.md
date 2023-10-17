@@ -1,7 +1,7 @@
 ### Hello World, my name is Filipe 👋
 
 <div>
-    <img  height="180em" src="(https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)"/>
+    <img  height="180em" src="(https://github-readme-stats.vercel.app/api?username=FilipeBPDev&show_icons=true&theme=dracula)"/>
     <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FilipeBPDev&layout=compact&langs_count=16&theme=great-gatsby"/>
 </div>
 
