@@ -2,7 +2,7 @@
 
 <h3 align="center">I'm a web developer fascinated by technology 🤩 </h3>
 
-<p align="center">In constantly evolving 🚀 focused on building amazing technology experiences 👨‍💻</p>
+<p align="center">Constantly evolving 🚀 focused on building amazing technological experiences 👨‍💻</p>
 
 <div align="center">
     <p>📍 Living in São Paulo, Brazil 🇧🇷</p>
