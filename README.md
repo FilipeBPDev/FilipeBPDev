@@ -6,7 +6,7 @@
 
 <div align="center">
     <p>📍 Living in São Paulo, Brazil 🇧🇷</p>
-<p>I'm in the second semester of the course in systems analysis and development 📚</p>
+<p>I'm in the fourth term of the course in systems analysis and development 📚</p>
 </div>
 
 
