@@ -1,40 +1,44 @@
-<h1 align="center">Hello World! I'm Filipe 👋</h1>
+<h1 align="center">Filipe Batista</h1>
 
-<h3 align="center">I'm a web developer fascinated by technology 🤩 </h3>
+<h3 align="center">Backend-focused Full Stack Developer</h3>
 
-<p align="center">Constantly evolving 🚀 focused on building amazing technological experiences 👨‍💻</p>
+<p align="center">
+Building and improving web applications with focus on clean architecture, scalability and maintainability.
+</p>
 
 <div align="center">
-    <p>📍 Living in São Paulo, Brazil 🇧🇷</p>
-<p>I'm in the fourth term of the course in systems analysis and development 📚</p>
+    <p>Based in São Paulo, Brazil</p>
+    <p>Systems Analysis and Development — UNICSUL</p>
 </div>
 
+<br/>
 
-
-<div align="center" style="margin-top: 20px;">
-    <div style="padding: 20px;">
-        <h1>My Skills 🛠️</h1>
-        <div>
-            <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9" width="120">
-            <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/67f477ed-6624-42da-99f0-1a7b1a16eecb" width="120">
-            <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
-            <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
-            <br></br>
-            <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
-            <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
-            <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="180">
-            <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">       
-        </div>
-    </div>
-</div>
-<br></br>
-
-<div aling="center">
-    <details align="center">
-  <summary>Github Stats ⚡</summary>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FilipeBPDev&show_icons=true&theme=blue_navy"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FilipeBPDev&layout=compact&langs_count=16&theme=blue_navy"/>
-  
-</details>
+<div align="center">
+    <h2>Technical Skills</h2>
+    <p>
+        <strong>Backend:</strong> PHP, Node.js<br/>
+        <strong>Frontend:</strong> React, JavaScript<br/>
+        <strong>Tools:</strong> Git, REST APIs, Docker (basic)
+    </p>
 </div>
 
+<br/>
+
+<div align="center">
+    <h2>Professional Focus</h2>
+    <p>
+        Backend development and system design<br/>
+        Business logic implementation and reporting features<br/>
+        Code quality, performance and maintainability improvements
+    </p>
+</div>
+
+<br/>
+
+<div align="center">
+    <details>
+        <summary>GitHub Stats</summary>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FilipeBPDev&show_icons=true&theme=blue_navy"/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FilipeBPDev&layout=compact&langs_count=16&theme=blue_navy"/>
+    </details>
+</div>
